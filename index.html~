@@ -49,14 +49,14 @@
 
       <div id="img">
 
-	<img src="photo/photo1.jpg" width="428" height="321"/>
+	<img src="/photo1.jpg" width="428" height="321"/>
 
       </div>
     
 
       <div id="textleftofimg">
 
-	<h2>Qipeng Liu ( ¡ı ∆‰ ≈Û )</h2>
+	<h2>Qipeng Liu</h2>
 
 	<p>Research Fellow</p>
 
