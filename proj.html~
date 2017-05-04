@@ -48,79 +48,28 @@
 
       <div id="textunderimg">
 
-	<h3>Publications</h3>
+	<h3>Recent Projects</h3>
 
-	<p><a href="https://scholar.google.com.sg/citations?user=BuMSSIoAAAAJ&hl=zh-CN" style="color:blue">Google Scholar</a> lists papers by citation count order.</p>
-	
+
 	<ol>
-
 	  <li>
-	    <p><strong>Competitive seeds-selection in complex networks</strong></p>
-	    <p>Jiuhua Zhao, Qipeng Liu, Lin Wang, and Xiaofan Wang</p>
-	    <p><em>Physica A</em>, 467(1): 240-248, 2017.</p>
-	  </li>
-
-	  <li>
-	    <p><strong>Competitiveness maximization on complex networks</strong></p>
-	    <p>Jiuhua Zhao, Qipeng Liu, Lin Wang, and Xiaofan Wang</p>
-	    <p><em>IEEE Transactions on Systems, Man, and Cybernetics: Systems</em>, In press, 2017.</p>
-	  </li>
-
-	  <li>
-	    <p><strong> Multi-agent model of group polarisation with biased assimilation of arguments</strong></p>
-	    <p>Qipeng Liu, Jiuhua Zhao, and Xiaofan Wang</p>
-	    <p><em>IET Control Theory and Applications</em>, 9(3): 485-492, 2015.</p>
-	  </li>
-
-	  <li>
-	    <p><strong>Consensus seeking over directed networks with limited information communication</strong></p>
-	    <p>Dequan Li, Qipeng Liu, Xiaofan Wang, Zongli Lin</p>
-	    <p><em>Automatica</em>, 49(2): 610-618, 2014.</p>
-	  </li>
-
-	   <li>
-	    <p><strong>Competitive dynamics on complex networks</strong></p>
-	    <p>Jiuhua Zhao, Qipeng Liu, Xiaofan Wang </p>
-	    <p><em>Scientific Reports</em>, 4: 5858, 2014.</p>
+	    <p><strong>Competitive Influence Maximization Based on Opinion Dynamics Models</strong> (61503207)</p>
+	    <p>National Natural Science Foundation, 2016.01-2018.12, Principal Investigator.</p>
 	  </li>
 	  
 	  <li>
-	    <p><strong>Quantized consensus over directed networks with switching topologies</strong></p>
-	    <p>Dequan Li, Qipeng Liu, Xiaofan Wang, Zhixiang Yin</p>
-	    <p><em>Systems & Control Letters</em>, 65: 13-22, 2014.</p>
+	    <p style="width:1000px"><strong>Distributed Detection Basedon Linear Aggregation of Bayesian Posterior Probabilities</strong> (2015M571997)</p>
+	    <p>Postdoctoral Foundation of China, 2015.05-2016.11, Principal Investigator.</p>
 	  </li>
 	  
 	  <li>
-	    <p><strong>Social learning with time-varying weights</strong></p>
-	    <p>Qipeng Liu, Aili Fang, Lin Wang, and Xiaofan Wang</p>
-	    <p><em>Journal of Systems Science and Complexity</em>, 27(3): 581-593, 2014.</p>
+	    <p><strong>Distributed Detection in Sensor Networks via Bayesian and Consensus Protocols</strong> (ZR2015PF003)</p>
+	    <p>Natural Science Foundation of Shandong Province, 2015.07-2016.12, Principal Investigator.</p>
 	  </li>
 
-	  <li>
-	    <p><strong>Social learning in networks with time-varying topologies</strong></p>
-	    <p>Qipeng Liu and Xiaofan Wang</p>
-	    <p><em>Asian Journal of Control</em>, 16(6): 1-8, 2013.
-	  </li>
 
-	  <li>
-	    <p><strong>Social learning with bounded confidence and heterogeneous agents</strong></p>
-	    <p>Qiepng Liu and Xiaofan Wang</p>
-	    <p><em>Physica A</em>, 392(10): 2368-2374, 2013.</p>
-	  </li>
-
-	  <li>
-	    <p><strong>Opinion dynamics with similarity-based random neighbors</strong></p>
-	    <p>Qipeng Liu and Xiaofan Wang</p>
-	    <p><em>Scientific Reports</em>, 3: 2968, 2013.</p>
-	  </li>
-	  
-
-	  <li>
-	    <p><strong>Distributed quantized consensus for agents on directed networks</strong></p>
-	    <p>Dequan Li, Qipeng Liu, and Xiaofan Wang</p>
-	    <p><em>Journal of Systems Science and Complexity</em>, 26 (4): 489-511, 2013.</p>
-	  </li>
-	  
+	</ol>
+	 	  
 	  
 
 
