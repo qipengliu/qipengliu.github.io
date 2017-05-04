@@ -1,6 +1,7 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
   <head>
+	<meta charset="UTF-8">
     <link type="text/css" rel="stylesheet" href="stylesheet.css">
     <title>
       Qipeng Liu
@@ -49,7 +50,7 @@
 
       <div id="img">
 
-	<img src="/photo1.jpg" width="428" height="321"/>
+	<img src="photo1.JPG" width="428" height="321"/>
 
       </div>
     
