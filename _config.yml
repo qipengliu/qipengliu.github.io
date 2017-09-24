@@ -11,17 +11,17 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://qipengliu.github.io/
+url: http:/qipengliu.github.io/
 baseurl: /
 title: Qipeng Liu
 author: Qipeng Liu
 description: Personal website
-avatar: photo.jpg
+avatar: profile.png
 email: qpliu@ntu.edu.sg
-github: qipengliu # username
-#twitter: qipengliu
-#linkedin: qipengliu
-#stackoverflow: qipengliu   #e.g: users/2735833/proton1h1
+#github: qipengliu # username
+#twitter: username
+#linkedin: username
+#stackoverflow: username   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus 
 #disqus: username
 #google_analytics: UA-69391421-1
